@@ -7,4 +7,4 @@ Creating a new branch is quick and simple.
 dev branch
 add merge
 ff 模式
-分支保存
+分支保存需要暂存
