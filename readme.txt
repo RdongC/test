@@ -7,3 +7,5 @@ Creating a new branch is quick and simple.
 dev branch
 add merge
 fix bug 101
+暂存后合并
+
